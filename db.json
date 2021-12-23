@@ -34,8 +34,7 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "pantallas": [
+  }
     {
       "id": 1,
       "nombrePantalla": "Pantalla menu zona publica",
