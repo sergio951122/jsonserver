@@ -1,15 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" }
+    { "id": 1, "title": "Post 1" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "pantallas": [
     {
       "id": 1,
       "nombrePantalla": "Pantalla menu zona publica",
@@ -27,56 +20,6 @@
             "orden": 1,
             "linkPantalla": "/na",
             "linkExterno": "",
-            "tipoOpcion": 1,
-            "descripcion": ""
-          },
-          {
-            "idOpcion": 2,
-            "nombre": "Simulador",
-            "icono": "../../../assets/icon/icon-menu-2.JPG",
-            "orden": 2,
-            "linkPantalla": "/financingplan",
-            "linkExterno": null,
-            "tipoOpcion": 1,
-            "descripcion": ""
-          },
-          {
-            "idOpcion": 2,
-            "nombre": "Mis solicitudes",
-            "icono": "../../../assets/icon/icon-menu-3.JPG",
-            "orden": 2,
-            "linkPantalla": "/solicitudes",
-            "linkExterno": null,
-            "tipoOpcion": 1,
-            "descripcion": ""
-          },
-          {
-            "idOpcion": 1,
-            "nombre": "Pago online",
-            "icono": "../../../assets/icon/icon-menu-4.JPG",
-            "orden": 3,
-            "linkPantalla": "",
-            "linkExterno": "https://www.msn.com/es-co/",
-            "tipoOpcion": 2,
-            "descripcion": ""
-          },
-          {
-            "idOpcion": 1,
-            "nombre": "¿Quíenes somos?",
-            "icono": "../../../assets/icon/icon-menu-5.JPG",
-            "orden": 3,
-            "linkPantalla": "/home/quienes-somos",
-            "linkExterno": "link",
-            "tipoOpcion": 1,
-            "descripcion": ""
-          },
-          {
-            "idOpcion": 1,
-            "nombre": "Contácto",
-            "icono": "../../../assets/icon/icon-menu-6.JPG",
-            "orden": 3,
-            "linkPantalla": "/contactos",
-            "linkExterno": "link",
             "tipoOpcion": 1,
             "descripcion": ""
           }
